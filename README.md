@@ -32,6 +32,9 @@ Instructions on how to use the app:
 "Feel free to fork the repository and submit pull requests if you have suggestions or improvements!"
 
 #### Screenshots
-![Screenshot_7-10-2024_14350_127 0 0 1](https://github.com/user-attachments/assets/42b7ad09-cdcb-4593-ba5c-30f833d5b73c)
+![Screenshot_7-10-2024_14106_127 0 0 1](https://github.com/user-attachments/assets/883f19a4-a77f-4409-8ba5-839e0db9bf08)
+![Screenshot_7-10-2024_141036_127 0 0 1](https://github.com/user-attachments/assets/e108723e-959c-4291-b565-c8e7d0dc0da1)
+
+
 .
 
